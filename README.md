@@ -20,5 +20,5 @@ A small web app that preserves capitalization, optional punctuation, and handles
 <img width="651" height="527" alt="image" src="https://github.com/user-attachments/assets/2e378bda-338d-4f9d-a067-414ff0e911ab" />
 
 ##  Demo
-C:\Users\divya\Downloads\Untitled video - Made with Clipchamp.mp4
-[view](https://drive.google.com/file/d/1abkBTE7uDd6minUfvCAl4u9uU03Bl-Eb/view?usp=sharing)
+
+[Here is the link](https://drive.google.com/file/d/1abkBTE7uDd6minUfvCAl4u9uU03Bl-Eb/view?usp=sharing)
