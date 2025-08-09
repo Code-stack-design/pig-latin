@@ -20,6 +20,5 @@ A small web app that preserves capitalization, optional punctuation, and handles
 <img width="651" height="527" alt="image" src="https://github.com/user-attachments/assets/2e378bda-338d-4f9d-a067-414ff0e911ab" />
 
 ##  Demo
-
-[Here is the link](https://drive.google.com/file/d/1abkBTE7uDd6minUfvCAl4u9uU03Bl-Eb/view?usp=sharing)
+https://github.com/user-attachments/assets/f372fe91-ccfe-4d9e-ad05-e8c7e3640a4e
 
