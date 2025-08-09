@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pig Latin Converter</title>
+  <link rel="stylesheet" href="plat.css">
+</head>
+<body>
+  <main class="card" role="main">
+    <h1>Pig Latin Converter</h1>
+    <p class="lead">Type a word or sentence and get the Pig Latin translation.</p>
+    <label class="small" for="input">Input</label>
+    <textarea id="input" rows="4" placeholder="e.g. Hello world! Banana"></textarea>
+    <div class="row">
+      <button id="convert">Convert</button>
+      <button id="clear" class="ghost">Clear</button>
+      <button id="copy" class="ghost">Copy result</button>
+      <label class="small" style="margin-left:auto">
+        <input id="preservePunct" type="checkbox" checked> Preserve punctuation
+      </label>
+    </div>
+    <div id="result" class="out" aria-live="polite"></div>
+    <footer>
+      <span class="small">Handles case, punctuation, and consonant clusters.</span>
+      <span class="small">Made with ❤️</span>
+    </footer>
+  </main>
+  <script src="platin.js"></script>
+</body>
+</html>
